@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer className="relative bg-slate-900 text-gray-300 py-12">
       {/* 🔴 Subtle red gradient glow at top */}
-      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-700 via-red-600 to-red-700" />
+      
 
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-8">
         {/* Logo / Brand */}
@@ -20,7 +20,7 @@ export default function Footer() {
         >
           <h2 className="text-2xl font-bold text-white">SETZ</h2>
           <p className="text-gray-400 text-sm mt-1">
-            Train smarter. Track better. Stay focused.
+            Take Your Turn.
           </p>
         </motion.div>
 
@@ -89,7 +89,7 @@ export default function Footer() {
 
       {/* Divider + Bottom note */}
       <div className="mt-10 border-t border-gray-700 pt-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} SetCount. All rights reserved.
+        © {new Date().getFullYear()} SETZ. All rights reserved.
       </div>
     </footer>
   );

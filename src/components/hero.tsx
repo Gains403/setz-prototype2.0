@@ -45,7 +45,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6, duration: 0.8 }}
           >
-            SetCount is a compact magnetic device that keeps track of your sets
+            SETZ is a compact magnetic device that keeps track of your sets
             while you focus on your workout — no distractions, just results.
           </motion.p>
 

@@ -11,7 +11,7 @@ const faqs = [
       "SetCount is a compact, magnetic smart counter that automatically tracks your sets during workouts — no manual input, no distractions. Just attach and train.",
   },
   {
-    question: "How does SetCount stay attached during workouts?",
+    question: "How does SETZ stay attached during workouts?",
     answer:
       "It features a strong magnetic base designed to lock onto metallic gym equipment securely, even during high-intensity sets and movements.",
   },
