@@ -40,7 +40,7 @@ export default function CTASection() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="text-lg md:text-xl text-gray-200 mb-10 max-w-2xl mx-auto"
         >
-          Get <span className="text-red-400 font-semibold">SetCount</span> for
+          Get <span className="text-red-400 font-semibold">SETZ</span> for
           just <span className="text-white font-bold">$69.99</span> — track
           every rep, every set, and elevate your training without missing a
           moment.

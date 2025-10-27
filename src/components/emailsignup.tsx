@@ -8,6 +8,7 @@ export default function EmailSignup() {
 
   return (
     <section
+      id="contact"
       className="relative py-24 bg-cover bg-center"
       style={{
         backgroundImage: "url('/images/setzEmailSignup.jpg')", // 👈 your CTA background

@@ -7,7 +7,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <footer className="relative bg-slate-900 text-gray-300 py-12">
-      {/* 🔴 Subtle red gradient glow at top */}
+      
       
 
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-8">

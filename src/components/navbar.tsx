@@ -39,10 +39,10 @@ export default function Navbar() {
   }, []);
 
   const links = [
-    { href: "#features", label: "Features" },
-    { href: "#how", label: "How It Works" },
-    { href: "#pricing", label: "Pricing" },
-    { href: "#contact", label: "Contact" },
+    { href: "/", label: "Home" },
+    { href: "/#features", label: "Features" },
+    { href: "/how-it-works", label: "How It Works" },
+    { href: "/#contact", label: "Contact" },
   ];
 
   return (
